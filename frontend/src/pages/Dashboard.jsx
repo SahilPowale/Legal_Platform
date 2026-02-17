@@ -518,7 +518,7 @@ const Dashboard = () => {
                     <h1 style={{fontSize:'2rem', fontWeight:'bold', margin:0, color:'#1e293b'}}>Dashboard</h1>
                     <p style={{color:'#64748b', margin:0}}>Welcome back, {user.name}</p>
                 </div>
-                <button onClick={logout} className="btn btn-secondary" style={{ color: '#ef4444', borderColor: '#ef4444' }}>Logout</button>
+                {/* <button onClick={logout} className="btn btn-secondary" style={{ color: '#ef4444', borderColor: '#ef4444' }}>Logout</button> */}
             </div>
             
             {/* --- LAYOUT GRID --- */}

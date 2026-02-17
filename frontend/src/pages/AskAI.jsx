@@ -99,7 +99,7 @@ const AskAI = () => {
             height: '85vh',
             display: 'flex',
             flexDirection: 'column',
-            background: '#e5ddd5', // WhatsApp-like beige background
+            background: '#e8e3df', // WhatsApp-like beige background
             borderRadius: '15px',
             boxShadow: '0 10px 30px rgba(0,0,0,0.15)',
             overflow: 'hidden',
@@ -107,7 +107,7 @@ const AskAI = () => {
             position: 'relative'
         },
         header: {
-            background: '#3b72f1', // WhatsApp/Telegram Green
+            background: '#3b72f1', // WhatsApp/Telegram blue
             color: 'white',
             padding: '15px 20px',
             display: 'flex',
@@ -144,7 +144,7 @@ const AskAI = () => {
             fontSize: '0.9rem',
             cursor: 'pointer',
             background: 'rgba(255,255,255,0.2)',
-            color: 'white',
+            color: 'black',
             outline: 'none'
         },
         chatArea: {

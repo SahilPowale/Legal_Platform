@@ -70,9 +70,6 @@ const LawyerDashboard = () => {
                     <button className="bg-gray-100 text-gray-700 px-4 py-2 rounded hover:bg-gray-200">
                          Drafts
                     </button>
-                    <button onClick={logout} className="bg-red-500 text-white px-4 py-2 rounded hover:bg-red-600">
-                        Logout
-                    </button>
                 </div>
             </div>
 
